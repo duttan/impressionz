@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173854349095",
+    "firebase_url": "https://impressions-ff750.firebaseio.com",
+    "project_id": "impressions-ff750",
+    "storage_bucket": "impressions-ff750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173854349095:android:a9e85ee8f7c8da38",
+        "android_client_info": {
+          "package_name": "com.example.a666299.impressions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173854349095-92p0df13urf6ft9rngdi62cfofum86d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a666299.impressions",
+            "certificate_hash": "9c70f944307a4de5835ef05461a7a79eafcca833"
+          }
+        },
+        {
+          "client_id": "173854349095-tbmku38i9jd91tq7t3ske7j8arf4jncg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlfZ-KWOKikxQkrikyIXACj9TUPyPyEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173854349095-tbmku38i9jd91tq7t3ske7j8arf4jncg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
