@@ -118,7 +118,6 @@ public class SignupActivity extends AppCompatActivity {
 
     }
 
-
     @Override
     protected void onStart() {
         super.onStart();
